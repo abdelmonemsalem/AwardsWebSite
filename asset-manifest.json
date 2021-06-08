@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/AwardsWebSite/static/css/main.e749886e.chunk.css",
+    "main.js": "/AwardsWebSite/static/js/main.422baadb.chunk.js",
+    "main.js.map": "/AwardsWebSite/static/js/main.422baadb.chunk.js.map",
+    "runtime-main.js": "/AwardsWebSite/static/js/runtime-main.602332ed.js",
+    "runtime-main.js.map": "/AwardsWebSite/static/js/runtime-main.602332ed.js.map",
+    "static/js/2.b35254f6.chunk.js": "/AwardsWebSite/static/js/2.b35254f6.chunk.js",
+    "static/js/2.b35254f6.chunk.js.map": "/AwardsWebSite/static/js/2.b35254f6.chunk.js.map",
+    "static/js/3.e4743ae8.chunk.js": "/AwardsWebSite/static/js/3.e4743ae8.chunk.js",
+    "static/js/3.e4743ae8.chunk.js.map": "/AwardsWebSite/static/js/3.e4743ae8.chunk.js.map",
+    "index.html": "/AwardsWebSite/index.html",
+    "static/css/main.e749886e.chunk.css.map": "/AwardsWebSite/static/css/main.e749886e.chunk.css.map",
+    "static/js/2.b35254f6.chunk.js.LICENSE.txt": "/AwardsWebSite/static/js/2.b35254f6.chunk.js.LICENSE.txt",
+    "static/media/style-en.scss": "/AwardsWebSite/static/media/vector2.ad424563.svg",
+    "static/media/facebook.566a037a.svg": "/AwardsWebSite/static/media/facebook.566a037a.svg",
+    "static/media/instagram.887c756d.svg": "/AwardsWebSite/static/media/instagram.887c756d.svg",
+    "static/media/linkedin.a58c9e81.svg": "/AwardsWebSite/static/media/linkedin.a58c9e81.svg",
+    "static/media/logo.fb2ef52f.PNG": "/AwardsWebSite/static/media/logo.fb2ef52f.PNG",
+    "static/media/twitter.a5ab094f.svg": "/AwardsWebSite/static/media/twitter.a5ab094f.svg",
+    "static/media/youtube.819355e9.svg": "/AwardsWebSite/static/media/youtube.819355e9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.602332ed.js",
+    "static/js/2.b35254f6.chunk.js",
+    "static/css/main.e749886e.chunk.css",
+    "static/js/main.422baadb.chunk.js"
+  ]
+}
