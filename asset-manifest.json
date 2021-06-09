@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/AwardsWebSite/static/css/main.101dbccf.chunk.css",
-    "main.js": "/AwardsWebSite/static/js/main.5ae69564.chunk.js",
-    "main.js.map": "/AwardsWebSite/static/js/main.5ae69564.chunk.js.map",
-    "runtime-main.js": "/AwardsWebSite/static/js/runtime-main.744da206.js",
-    "runtime-main.js.map": "/AwardsWebSite/static/js/runtime-main.744da206.js.map",
+    "main.js": "/AwardsWebSite/static/js/main.808b6a81.chunk.js",
+    "main.js.map": "/AwardsWebSite/static/js/main.808b6a81.chunk.js.map",
+    "runtime-main.js": "/AwardsWebSite/static/js/runtime-main.9048376d.js",
+    "runtime-main.js.map": "/AwardsWebSite/static/js/runtime-main.9048376d.js.map",
     "static/css/2.17e4381f.chunk.css": "/AwardsWebSite/static/css/2.17e4381f.chunk.css",
-    "static/js/2.39a4cb69.chunk.js": "/AwardsWebSite/static/js/2.39a4cb69.chunk.js",
-    "static/js/2.39a4cb69.chunk.js.map": "/AwardsWebSite/static/js/2.39a4cb69.chunk.js.map",
-    "static/js/3.f8f7d89b.chunk.js": "/AwardsWebSite/static/js/3.f8f7d89b.chunk.js",
-    "static/js/3.f8f7d89b.chunk.js.map": "/AwardsWebSite/static/js/3.f8f7d89b.chunk.js.map",
+    "static/js/2.86035223.chunk.js": "/AwardsWebSite/static/js/2.86035223.chunk.js",
+    "static/js/2.86035223.chunk.js.map": "/AwardsWebSite/static/js/2.86035223.chunk.js.map",
+    "static/js/3.affc3b72.chunk.js": "/AwardsWebSite/static/js/3.affc3b72.chunk.js",
+    "static/js/3.affc3b72.chunk.js.map": "/AwardsWebSite/static/js/3.affc3b72.chunk.js.map",
     "index.html": "/AwardsWebSite/index.html",
     "static/css/2.17e4381f.chunk.css.map": "/AwardsWebSite/static/css/2.17e4381f.chunk.css.map",
     "static/css/main.101dbccf.chunk.css.map": "/AwardsWebSite/static/css/main.101dbccf.chunk.css.map",
-    "static/js/2.39a4cb69.chunk.js.LICENSE.txt": "/AwardsWebSite/static/js/2.39a4cb69.chunk.js.LICENSE.txt",
+    "static/js/2.86035223.chunk.js.LICENSE.txt": "/AwardsWebSite/static/js/2.86035223.chunk.js.LICENSE.txt",
     "static/media/style-en.scss": "/AwardsWebSite/static/media/whiteShape.29f1da54.svg",
     "static/media/badge.1f5b5154.svg": "/AwardsWebSite/static/media/badge.1f5b5154.svg",
     "static/media/facebook.9ed698ab.svg": "/AwardsWebSite/static/media/facebook.9ed698ab.svg",
@@ -35,10 +35,10 @@
     "static/media/youtube.f18c50eb.svg": "/AwardsWebSite/static/media/youtube.f18c50eb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.744da206.js",
+    "static/js/runtime-main.9048376d.js",
     "static/css/2.17e4381f.chunk.css",
-    "static/js/2.39a4cb69.chunk.js",
+    "static/js/2.86035223.chunk.js",
     "static/css/main.101dbccf.chunk.css",
-    "static/js/main.5ae69564.chunk.js"
+    "static/js/main.808b6a81.chunk.js"
   ]
 }
