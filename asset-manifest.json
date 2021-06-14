@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AwardsWebSite/static/css/main.a6ff6a48.chunk.css",
-    "main.js": "/AwardsWebSite/static/js/main.75ff8f8b.chunk.js",
-    "main.js.map": "/AwardsWebSite/static/js/main.75ff8f8b.chunk.js.map",
+    "main.js": "/AwardsWebSite/static/js/main.ef2981d9.chunk.js",
+    "main.js.map": "/AwardsWebSite/static/js/main.ef2981d9.chunk.js.map",
     "runtime-main.js": "/AwardsWebSite/static/js/runtime-main.42406562.js",
     "runtime-main.js.map": "/AwardsWebSite/static/js/runtime-main.42406562.js.map",
     "static/css/2.17e4381f.chunk.css": "/AwardsWebSite/static/css/2.17e4381f.chunk.css",
@@ -49,6 +49,6 @@
     "static/css/2.17e4381f.chunk.css",
     "static/js/2.cb68708c.chunk.js",
     "static/css/main.a6ff6a48.chunk.css",
-    "static/js/main.75ff8f8b.chunk.js"
+    "static/js/main.ef2981d9.chunk.js"
   ]
 }
